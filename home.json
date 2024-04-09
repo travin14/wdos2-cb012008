@@ -1,0 +1,21 @@
+{
+    "objectives": {
+      "title": "our objectives",
+      "items": [
+        "Sustainable Wildlife Populations",
+        "Conservation of Wildlife Habitats",
+        "Research and Monitoring"
+      ],
+      "image": "images/wildlife2.jpeg"
+    },
+    "experiences": {
+      "title": "what will u experience",
+      "items": [
+        "Visual Appeal",
+        "Conservation Advocacy",
+        "Community Engagement"
+      ],
+      "image": "images/wildlife3.jpeg"
+    }
+  }
+  
